@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "259111457138",
+    "project_id": "tios-6d10c",
+    "storage_bucket": "tios-6d10c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259111457138:android:9face009f8c7bfdfa38deb",
+        "android_client_info": {
+          "package_name": "com.example.tios"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxgwpqye2P11jkuGEZv_ySBjaLzTSZh8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
