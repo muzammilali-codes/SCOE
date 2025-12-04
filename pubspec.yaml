@@ -1,0 +1,54 @@
+name: SCOE
+description: "College App"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.5.0 <4.0.0"   # Use a compatible SDK range (Flutter 3.24+)
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase
+  firebase_core: ^3.5.0
+  firebase_dart: ^1.5.3
+  cloud_firestore: ^5.3.0
+  firebase_auth: ^5.3.0
+  firebase_messaging: ^15.0.0
+
+  pdf: ^3.11.0
+  printing: ^5.13.2
+
+
+    # Open PDF file
+  open_file: ^3.2.1
+
+    # Path provider for file storage
+  path_provider: ^2.1.5
+
+    # For formatting dates
+  intl: ^0.18.1
+
+  # File pickers (mobile & desktop)
+  file_selector: ^1.0.3
+  desktop_file_picker: ^0.0.5
+  excel: ^2.0.9
+
+  # Others
+  url_launcher: ^6.3.0
+  device_apps: ^2.2.0
+  cupertino_icons: ^1.0.8
+  webview_flutter: ^4.7.0      # ✅ Add this for opening Google Drive / PDFs
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/logo.png

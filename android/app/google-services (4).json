@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "772152576969",
+    "project_id": "scoe-322c3",
+    "storage_bucket": "scoe-322c3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772152576969:android:47f16e67304a573c927618",
+        "android_client_info": {
+          "package_name": "com.example.scoe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsrzhM2rplZm9xDyOArMwhyC2kBDf0QCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
